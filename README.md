@@ -1,5 +1,5 @@
 # Trajectory-prediction-Transformer-for-Autonomous-driving
-I reconfigurated Individual TF, BERT, Quantized TF, Quantized BERT. Original version exists here. https://github.com/FGiuliari/Trajectory-Transformer Original version is not the complete code so i fixed it to customize the TF that i want.
+I reconfigurated Individual TF, BERT, Quantized TF, Quantized BERT.  Original version is not the complete code so i fixed it to customize the TF that i want.
 
 이 코드는 4가지 종류의 TF로 구성되어 있습니다. TF, BERT, Quantized TF, Quantized BERT
 원본 버전은 완전한 코드가 아니므로 원하는 TF로 재구성해서 완성했습니다. 일반 TF는 가장 기본적으로 알려진 TF를 따릅니다. 
